@@ -7,7 +7,6 @@
 
 
 
-
 - 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **ReactJS, NextJS, JavaScript**
